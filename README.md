@@ -1,1 +1,1 @@
-# Classification-using-Machine-Learning_Cervical-Cancer-and-White-Wine-Type-Prediction
+# Classification-using-Machine-Learning Alogorithms_Cervical-Cancer-and-White-Wine-Type-Prediction
